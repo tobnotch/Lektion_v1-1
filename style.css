@@ -1,4 +1,5 @@
-.hello-world {
+.hello-world
+{
     display: flex;
     justify-content: center;
     
@@ -7,7 +8,27 @@
     font-size: 100px;
 }
 
-body {
+body
+{
     background-color:rgb(40, 40, 40);
     color: white;
+}
+
+.google-link
+{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 50px;
+}
+
+.amazon-paragraph
+{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    color: black;
+    font-size: 50px;
+    border: 10px solid lightgoldenrodyellow;
+    padding: 25px;
 }
